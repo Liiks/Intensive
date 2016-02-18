@@ -1,0 +1,93 @@
+[33mcommit 2b579b0204deb581b7941a509aebb8485b0d19a3[m
+Author: Varlamov.P.V <liiks@mail.ru>
+Date:   Thu Feb 18 03:03:24 2016 +0300
+
+    Изменение имени коммита
+
+[33mcommit fb94810061cbf32c5c868ccc0aefa28b531f262d[m
+Author: Varlamov.P.V <liiks@mail.ru>
+Date:   Thu Feb 18 02:59:45 2016 +0300
+
+    Найден спрятанный файл
+
+[33mcommit e99aea67ca73b15573e4b1adb26ae0376a96f302[m
+Author: Varlamov.P.V <liiks@mail.ru>
+Date:   Thu Feb 18 02:51:49 2016 +0300
+
+    Добавлен файл stash.txt
+
+[33mcommit d88f9f690a1f8ace585ab9a990d3d58def916a4c[m
+Merge: c21dd55 3a6d613
+Author: Varlamov.P.V <liiks@mail.ru>
+Date:   Thu Feb 18 02:47:52 2016 +0300
+
+    Merge branch 'feature.two'
+    
+    Conflicts:
+    	merge.txt
+
+[33mcommit c21dd55025f049b55dee1ecd4cbc2ebb9538120f[m
+Merge: 811eb32 44431b4
+Author: Varlamov.P.V <liiks@mail.ru>
+Date:   Thu Feb 18 02:46:13 2016 +0300
+
+    Merge branch 'feature.one'
+    
+    Conflicts:
+    	merge.txt
+
+[33mcommit 811eb321cb6ee452e9eff9bdcdd6e75eb3fd8c3d[m
+Author: Varlamov.P.V <liiks@mail.ru>
+Date:   Thu Feb 18 02:29:55 2016 +0300
+
+    Добавлен файл merge.txt
+
+[33mcommit 3a6d613dcfbb722c0beaa12db72fa7c49303e966[m
+Author: Varlamov.P.V <liiks@mail.ru>
+Date:   Thu Feb 18 02:28:21 2016 +0300
+
+    Добавлен файл merge.txt
+
+[33mcommit 44431b47b1defa789135bf4e6b19b6c76db92a11[m
+Author: Varlamov.P.V <liiks@mail.ru>
+Date:   Thu Feb 18 02:26:54 2016 +0300
+
+    Обновлен файл merge.txt
+
+[33mcommit 678f9a5b856aa5fef0df0570dac120193facdfa3[m
+Author: Varlamov.P.V <liiks@mail.ru>
+Date:   Thu Feb 18 02:24:35 2016 +0300
+
+    Добавлен файл merge.txt
+
+[33mcommit d5425c825fd1c88d89772f212468c8b68b29835d[m
+Author: Varlamov.P.V <liiks@mail.ru>
+Date:   Thu Feb 18 02:12:32 2016 +0300
+
+    Добавлен файл branch2.txt
+
+[33mcommit 8f8953c98a5cf3520aea91c3d7dbbaa2b9763d1d[m
+Author: Varlamov.P.V <liiks@mail.ru>
+Date:   Thu Feb 18 02:06:56 2016 +0300
+
+    Добавление branch1.txt
+
+[33mcommit 4352958be0427f29cbc456373a8412d7f5828372[m
+Author: Varlamov.P.V <liiks@mail.ru>
+Date:   Wed Feb 17 16:21:29 2016 +0300
+
+    Добавлен release.notes и дописан .gitignore
+    Варламов.П.В.
+
+[33mcommit f68b0a837dc5528bd6e1a2aca8f484ad834402e4[m
+Author: Varlamov.P.V <liiks@mail.ru>
+Date:   Wed Feb 17 15:24:26 2016 +0300
+
+    Добавлен файл .gitignore
+
+[33mcommit 4782c113c4e8bff24b1f240ce2b120a6e5cd8e9d[m
+Author: Varlamov.P.V <liiks@mail.ru>
+Date:   Tue Feb 16 22:32:28 2016 +0300
+
+    Инициализирован репозиторий.
+    Варламов П.В.
