@@ -1,2 +1,5 @@
-tmp/
+tmp/*
 *.test-result
+/./*
+/bin/**/*.dll
+G-[0123456789].code
