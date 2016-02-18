@@ -1,0 +1,69 @@
+[33m4782c11[m Инициализирован репозиторий. Варламов П.В.
+ git.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+[33mf68b0a8[m Добавлен файл .gitignore
+ .gitignore | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+[33m4352958[m Добавлен release.notes и дописан .gitignore Варламов.П.В.
+ .gitignore    | 2 [32m++[m
+ release.notes | 0
+ 2 files changed, 2 insertions(+)
+[33m8f8953c[m Добавление branch1.txt
+ branch1.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+[33md5425c8[m Добавлен файл branch2.txt
+ branch2.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+[33m678f9a5[m Добавлен файл merge.txt
+ merge.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+[33m44431b4[m Обновлен файл merge.txt
+ merge.txt | 3 [32m+++[m
+ 1 file changed, 3 insertions(+)
+[33m3a6d613[m Добавлен файл merge.txt
+ merge.txt | 3 [32m+++[m
+ 1 file changed, 3 insertions(+)
+[33m811eb32[m Добавлен файл merge.txt
+ merge.txt | 3 [32m+++[m
+ 1 file changed, 3 insertions(+)
+[33mc21dd55[m Merge branch 'feature.one'
+[33md88f9f6[m Merge branch 'feature.two'
+[33me99aea6[m Добавлен файл stash.txt
+ stash.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+[33mfb94810[m Найден спрятанный файл
+ stash.txt | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+[33m2b579b0[m Изменение имени коммита
+ amend.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+[33mcda40d6[m Добавление файла логов
+ log.txt | 93 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ 1 file changed, 93 insertions(+)
+[33ma65f00a[m Добавлен файл revert.txt
+ revert.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+[33m4da6c12[m Добавлен файл norevert.txt
+ norevert.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+[33mb351939[m Revert "Добавлен файл norevert.txt"
+ norevert.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+[33m62f5078[m Revert "Добавлен файл revert.txt"
+ revert.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+[33mf110d22[m Revert "Revert "Добавлен файл revert.txt""
+ revert.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+[33maf5fd7d[m Revert "Revert "Добавлен файл norevert.txt""
+ norevert.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+[33m10a6c26[m Revert "Добавлен файл revert.txt"
+ revert.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+[33m22e5f5c[m Создан файл reset.txt
+ reset.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+[33me6339f0[m Создан файл reset2.txt
+ reset2.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
